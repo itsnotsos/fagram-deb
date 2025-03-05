@@ -1,0 +1,34 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: fagram
+Label: fagram Github Apt Repo
+Suite: stable
+Codename: bionic
+Date: Wed, 05 Mar 2025 16:28:54 UTC
+Architectures: amd64
+Components: main
+Description: fagram x64 github Apt repository
+MD5Sum:
+ 84ccd6e47ee1141ca84f212de108edcc 388 main/binary-amd64/Packages
+ a592269f7a1e5b726d00ad278b9ffbe2 302 main/binary-amd64/Packages.gz
+ ab521ee77a05a365e474601c2c59195a 143 main/binary-amd64/Release
+SHA1:
+ 6a6ba54f10bf53677cf68811fba3bed96ecbf56a 388 main/binary-amd64/Packages
+ d7f6d8720109010b5afcd0e6746980994beb83f5 302 main/binary-amd64/Packages.gz
+ 51ec15bbbf65ad06406d6db51991c0280aec5771 143 main/binary-amd64/Release
+SHA256:
+ 48ccde5b57545d288396bb936783730e3b1e6e38773bebdc0f2473d10490a9ae 388 main/binary-amd64/Packages
+ 27bbb8ee238e3b469a66d071e620c4044fd702f0a1bff7d58c725be12aa8f136 302 main/binary-amd64/Packages.gz
+ 0d089b3d3ba02a95fc7ebfc06e9b902c09a92c12f03a4f2c97f77a066e3d2d59 143 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEuA/CRpHemKgsuHH/C/adjcgLvi4FAmfIe8YACgkQC/adjcgL
+vi440AgAiJzWda5oc4Sz+DcQgIRnRnSppIA2o1JNLQyZ1Iu6A6IDkZDtpuo1igUm
+jZopf/WdKXpjml+tg7qiXcWQy7vSaqw7Dl739RfvU5vY75f/h6suovs7zoWy4ZJu
+5mRCZMLneA/EDeuEWJvAm6Ol5jUOf8M4zTN0Cy+CCi6sE0wZq1JXDorrLt3JyXSn
+wRnT5haIghSpaYp0MrFqhK9oRMUX3gfR//ByL3sklx5WlxewRIEFVPqf8z2wIzmb
+8xc+SXWk1Tas8+kfzfAvu22u/V+07tDPDON4tD1/QKwP96CjDH78KljZt549PLcY
+InVNgnYwn9s7k1Hv1urQAtLf6DID0w==
+=oYyq
+-----END PGP SIGNATURE-----

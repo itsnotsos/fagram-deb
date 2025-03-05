@@ -1,0 +1,8 @@
+Origin: fagram
+Label: fagram Github Apt Repo
+Suite: stable
+Codename: bionic
+Architectures: amd64
+Components: main
+SignWith: yes
+Description: fagram x64 github Apt repository
