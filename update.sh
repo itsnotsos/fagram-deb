@@ -15,7 +15,7 @@ usage() {
 # Assign arguments to variables
 #REPOSITORY=$1
 #FILE_PATTERN=$2
-REPOSITORY='FajoX1/fagramdesktop'
+REPOSITORY='burhancodes/fagram-rpm'
 FILE_PATTERN='fagram-v*.tar.gz'
 
 
@@ -110,7 +110,7 @@ mkdir -p apt/incoming
 # Repo setup
 cat <<EOF >> apt/repo/conf/distributions
 Origin: fagram
-Label: fagram Github Apt Repo
+Label: FAgram Github Apt Repo
 Suite: stable
 Codename: bionic
 Architectures: amd64
