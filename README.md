@@ -1,7 +1,7 @@
 ### Info
-Unofficial apt repository for [FAgram](https://github.com/FajoX1/fagramdesktop), offering a more convenient alternative to manually replacing the binary or flatpaks.
+DEBIAN/UBUNTU APT repository for [FAgram](https://github.com/FajoX1/fagramdesktop), offering a more convenient alternative to manually replacing the binary or flatpaks.
 
-CI is set to run automatically every 4th day.
+CI is set to run automatically on every new release.
 
 ### Installation
 
