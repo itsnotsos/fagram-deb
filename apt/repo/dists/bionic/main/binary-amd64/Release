@@ -1,6 +1,6 @@
 Archive: stable
 Component: main
 Origin: fagram
-Label: fagram Github Apt Repo
+Label: FAgram Github Apt Repo
 Architecture: amd64
 Description: fagram x64 github Apt repository

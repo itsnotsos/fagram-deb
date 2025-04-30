@@ -1,20 +1,20 @@
 Origin: fagram
-Label: fagram Github Apt Repo
+Label: FAgram Github Apt Repo
 Suite: stable
 Codename: bionic
-Date: Thu, 06 Mar 2025 01:28:22 UTC
+Date: Wed, 30 Apr 2025 22:41:26 UTC
 Architectures: amd64
 Components: main
 Description: fagram x64 github Apt repository
 MD5Sum:
- a031f677a3ea235e5a04317acf27983e 388 main/binary-amd64/Packages
- b1bf2d25bf747b90da491bfb567816fd 302 main/binary-amd64/Packages.gz
- ab521ee77a05a365e474601c2c59195a 143 main/binary-amd64/Release
+ 1c82475775a4adefc192b189ba82f501 388 main/binary-amd64/Packages
+ c2ac043a4b1408c7af4efba236ee06d2 302 main/binary-amd64/Packages.gz
+ ec7cb63bfb418a68aca55c2497b39677 143 main/binary-amd64/Release
 SHA1:
- ca524f3a8243d21a5e1148f2600e42bd790f4938 388 main/binary-amd64/Packages
- de200015895d282f720a1c01ada80755487b93ab 302 main/binary-amd64/Packages.gz
- 51ec15bbbf65ad06406d6db51991c0280aec5771 143 main/binary-amd64/Release
+ c7e06ec5155110c2c1e9e5f96a4c0ee50399e001 388 main/binary-amd64/Packages
+ 958c3c7125fb3e00230d5c248bd1d20bb11d4507 302 main/binary-amd64/Packages.gz
+ eb36b84dd08eddde3428a164748a1e744f6583ec 143 main/binary-amd64/Release
 SHA256:
- d192ccb6b9a7cccbf12c4c9ce68acfcf78c3171ac7c0f0c376814182278ff12f 388 main/binary-amd64/Packages
- 7d421aecb282e17afc99120f5b4b3f3af86473f0a3f5e174f1ebeecf2447f346 302 main/binary-amd64/Packages.gz
- 0d089b3d3ba02a95fc7ebfc06e9b902c09a92c12f03a4f2c97f77a066e3d2d59 143 main/binary-amd64/Release
+ 348c19ecbb27ea10409dfd2780bd7603c51018349a8bed2752992ab8e6f529df 388 main/binary-amd64/Packages
+ f9397b0f5cdb81b358f502a5d15b9703ce5b25bb6645e4736c0e90cc52274ac4 302 main/binary-amd64/Packages.gz
+ 822cf6e50e5f46aaae158caab1e4e1c0e5212a74f19ab0a989f7e711f5b604f4 143 main/binary-amd64/Release
